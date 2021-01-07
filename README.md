@@ -4,7 +4,7 @@
 **UP206A: *Introduction to GIS and Spatial Data Science*** - Course held at UCLA's Luskin School of Public Affairs to expose students to the foundations of spatial data science and its intersections with the realm of urban planning. 
 
 **Project Ideas:** 
-* Studying use of newly constructed (since SB 1069 was passed in 2016) ADUs in LA County - 
+* Studying use of newly constructed ADUs in LA County (since SB 1069 was passed in 2016) 
   * Rented? (If so, to whom? Also, how do rents in newly constructed ADUs compare to rents of other housing stock in the area?) 
   * Air Bnb? 
   * More space to support multi-generational families? 
