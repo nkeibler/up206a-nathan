@@ -8,7 +8,22 @@
   * Rented? (If so, to whom? Also, how do rents in newly constructed ADUs compare to rents of other housing stock in the area?) 
   * Air Bnb? 
   * More space to support multi-generational families? 
-  * Recreational use for existing homeowners?  
+  * Recreational use for existing homeowners? 
+* Mapping affordable and supportive housing development in LA County 
+  * New construction 
+  * Renovations of existing housing stock
+  * Conversion of existing building stock (ex. converting office space to housing)
+* Mapping lawsuits filed by neighborhood groups to block new housing developments in LA County
+  * Supportive housing developments
+  * Interim housing developments
+  * Affordable housing developments
+  * Market-rate housing developments
+* Mapping vacancy in LA County's existing housing stock
+* Mapping existing "missing middle" housing stock in LA County
+  * Duplexes, Triplexes, Fourplexes
+  * Townhouses
+  * Courtyard Buildings
+  * Small to Medium Multiplexes 
 
 **Personal Course Objectives:** 
 * Gain basic understanding of coding / programming 
