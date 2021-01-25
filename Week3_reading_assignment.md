@@ -1,0 +1,9 @@
+## Week 3 Reading Assignment
+
+https://www.youtube.com/watch?v=Cjp4mxvpoBo&feature=youtu.be
+
+From what I could gather from this video recording, Geoff Boeing is a professor and researcher focused on the intersections of urban planning, form and data science. His interests lie in how street networks structure cities by organizing the boundaries of parcels and buildings and the flow of humans in space. For his dissertation, he was interested in doing some sort of comparative analysis of graph models of different cities, but struggled to find the necessary data to do so. Because of this, his project then shifted to creating the very tool he needed to conduct his initial research idea, OSMnx. Since then, this tool has expanded over time and even been utilized by some planning firms and city entities. 
+
+I was excited by Geoff’s hopes to turn OSMnx into a more robust and user-friendly open-source framework. At one point, he spoke about wanting to create a website that runs OSMnx in the background, allows users to run a selection of filters and generates data for them to extract and use for their own research into street networks. The spirit of this idea felt very similar to the Social Explorer and Census Reporter tools that Yoh showed us last week. 
+
+I also found the discussion around the impact of disasters on the resiliency of network systems really interesting. The group was discussing the potential effects of natural disasters “knocking out” parts of a street network. Geoff offered an example of using OSMnx to analyze a flood’s ability to negatively impact the portion of the street network in neighborhoods that sit at the city’s lowest elevations. I could also see this same approach being applied to more rural, wildfire-prone settings to analyze evacuation routes for residents living in areas with a less connected street network (fewer routes to escape).  
